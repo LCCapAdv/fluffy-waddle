@@ -94,7 +94,7 @@
 		"@types/vscode": "^1.88.0",
 		"@vscode/test-cli": "^0.0.10",
 		"@vscode/test-electron": "^2.4.1",
-		"glob": "^11.0.0",
+		"glob": "^14.0.3",
 		"husky": "^9.1.7",
 		"lint-staged": "^15.2.11",
 		"rimraf": "^6.0.1",
